@@ -1,0 +1,32 @@
+{
+  "name": "Node-JS-server",
+  "version": "1.0.0",
+  "main": "client_send.js",
+  "dependencies": {
+    "npm": "^6.0.1",
+    "ws": "^5.1.1"
+  },
+  "engines": {
+  "node": "6.2.0"
+  },
+  "scripts": {
+  "start": "node server.js"
+  }
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dai15002/Node-JS-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dai15002/Node-JS-server/issues"
+  },
+  "homepage": "https://github.com/dai15002/Node-JS-server#readme",
+  "description": ""
+}
